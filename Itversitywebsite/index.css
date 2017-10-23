@@ -1,0 +1,194 @@
+@media (max-width: 500px) , (max-height: 700px) {
+    .pull-right{
+    margin-right: 20px;
+    width: 300px;
+    height: 200px;
+    }
+}
+
+@media (max-width: 500px) , (max-height: 700px){
+     .managed_services{
+        margin-left: 25px;
+        width: 300px;
+        height: 200px;
+    }
+}
+
+@media (max-width: 500px) , (max-height: 700px){
+    .training{
+        margin-left: 25px;
+        width: 300px;
+        height: 200px;
+    }
+}
+
+body {
+    padding-top: 70px;
+    background: #ddd;
+  }
+  
+  .navbar-fixed-top.scrolled {
+    background-color: #390 !important;
+    transition: background-color 200ms linear;
+    padding: 0px 20px;
+    margin: 0px 0px;
+  }
+  
+  .navbar-fixed-top.scrolled .nav-link {
+    color:#300;
+  }
+
+.navbar-header{
+    padding: 0px 0px 10px 10px;
+    margin: 0px 0px 0px 30px;
+}
+
+.navbar-toggle {
+    margin: 23px 0; 
+ }
+ 
+ .navbar-nav, .navbar-nav li, {
+   height: 20px 50px;
+   line-height: 20px 10px 30px 0px;
+ }
+ 
+ .navbar-nav li a {
+   padding-top: 20px;
+   padding-bottom:20px;
+   margin-left: 20px;
+ }
+
+.itversity{
+    width:220px; 
+    height:100px;
+    padding: 0px 60px 50px 0px;
+    margin: 0px 0px 10px 0px;
+}
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+.img-responsive {
+    max-width:100%;
+    height:auto; 
+}
+
+.pull-right {
+    width:300px; 
+    height:200px;
+}
+
+.enginepara{
+    padding: 10px 10px ;
+    margin: 20px 30px 20px 30px;
+}
+
+.managed_servicespara{
+    padding: 10px 10px;
+    margin: 10px 5px 15px 20px;
+    float: reverse ;
+}
+
+.mheading{
+    text-align: right;
+}
+
+.managed_services{
+    width:300px; 
+    height:200px;
+    padding: 10px 10px ;
+    margin: 20px 0px 20px 30px;
+}
+
+.mpara{
+    text-align: right;
+}
+
+.pull-right{
+    width:300px; 
+    height:200px;
+}
+
+.staffingpara{
+    padding: 10px 10px ;
+    margin: 20px 30px 20px 30px;
+}
+
+.trainingpara{
+    padding: 10px 10px ;
+    margin: 10px 5px 15px 20px;
+}
+.training{
+    width:300px; 
+    height:200px;
+    padding: 10px 10px ;
+    margin: 20px 0px 20px 30px;
+}
+
+.theading{
+    text-align: right;
+}
+
+.tpara{
+    text-align: right;
+}
+
+.clients{
+    border-bottom: 1px solid rgba(38, 39, 2, 0.281);
+    padding-bottom: 3px;
+    color: rgb(9, 79, 209);
+}
+
+.hortonworks{
+    margin-left:  150px;
+}
+
+.databricks{
+    margin-left:  0px;
+}
+
+.couldera{
+    margin-left:  40px;
+}
+
+.mapr{
+    margin-left: 50px;
+    margin-right: 0px;
+}
+
+hr{
+    border: none;
+    height: 3px;
+    background-color: red;
+}
+
+.pull-left{
+    margin-left: 70px;
+}
+
+.offerings{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 200px;
+}
+
+.offerings1{
+    list-style: none;
+    float: left;
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 162px;
+}
+
+.contact{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+.contact1{
+    list-style: none;
+    float: left;
+    margin-left: 12px;
+}
